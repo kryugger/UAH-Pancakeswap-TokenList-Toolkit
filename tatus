@@ -1,0 +1,5 @@
+[33m456105c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeat/add-uah-dao-tokens[m[33m, [m[1;31morigin/feat/add-uah-dao-tokens[m[33m, [m[1;31morigin/HEAD[m[33m)[m feat: Add UAH DAO and DonorBadge tokens to default list
+[33ma3db3de[m feat: Final compiled token list and updated Typechain ABIs for UAH DAO listing
+[33m1e24a55[m docs: Add professional README and CONTRIBUTING guidelines to project root
+[33m55f7ee0[m feat: Add UAH DAO, DonorBadge, and associated LP tokens to the default list
+[33mc10725f[m docs: Update repo link (#458)
