@@ -1,0 +1,74 @@
+[
+  {
+    "name": "UAH DAO (Polygon)",
+    "symbol": "UAH",
+    "address": "0xe8d15560f5ff9C0039283877c0809Aec4A5826aB",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/logo.png",
+    "tags": ["core"]
+  },
+  {
+    "name": "UAH DAO (BSC)",
+    "symbol": "UAH",
+    "address": "0xA53DC48E46c86Cb67FaE00A6749fd1dFF5C09987",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/logo.png",
+    "tags": ["core"]
+  },
+  {
+    "name": "DonorBadge (Polygon)",
+    "symbol": "DBADGE",
+    "address": "0xef2Fcb8D97C4C04d2248B8be467f5Ec21404a570",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/donobage.png",
+    "tags": ["badge"]
+  },
+  {
+    "name": "DonorBadge (BSC)",
+    "symbol": "DBADGE",
+    "address": "0x14BaE893904Ce74C43f979546E0254bB5A4a0c93",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/donobage.png",
+    "tags": ["badge"]
+  },
+  {
+    "name": "UAH-BNB LP Token",
+    "symbol": "UAH-BNB LP",
+    "address": "0xd9b8e249c7154F26b0eF92812f0B9d8CDb32136D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/cake-lp.png",
+    "tags": ["lp"]
+  },
+  {
+    "name": "UAH-USDT LP Token",
+    "symbol": "UAH-USDT LP",
+    "address": "0x42aB1C9b21E6a77DAA363430eFae0959195291b7",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/cake-lp.png",
+    "tags": ["lp"]
+  },
+  {
+    "name": "TangYuan Token",
+    "symbol": "TANGYUAN",
+    "address": "0x683e9dCf085E5efCc7925858aAcE94D4b8882024",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/tanguah.png",
+    "tags": ["partner"]
+  },
+  {
+    "name": "Position Token",
+    "symbol": "POSI",
+    "address": "0x5CA42204cDaa70d5c773946e69dE942b85CA6706",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://netvojne.net/icons/position.png",
+    "tags": ["partner"]
+  }
+]
